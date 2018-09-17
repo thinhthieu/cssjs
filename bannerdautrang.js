@@ -115,7 +115,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2xhcppO' target='_blank'><img src='https://1.bp.blogspot.com/-M1Mh7-Oy8oM/W2UqkAL6pqI/AAAAAAAAB0U/Rw7DgmAgqq48j13CkdjyGFvcFYfZmDEJQCLcBGAs/s320/jeans-hang-yen-shop-baner.jpg' width='500px'/><br/>Xưởng Quần Jean Giá Rẻ</a>. Jeans Hằng  Yên. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2D2uGO1' target='_blank'><img src='https://1.bp.blogspot.com/-M1Mh7-Oy8oM/W2UqkAL6pqI/AAAAAAAAB0U/Rw7DgmAgqq48j13CkdjyGFvcFYfZmDEJQCLcBGAs/s320/jeans-hang-yen-shop-baner.jpg' width='500px'/><br/>Xưởng Quần Jean Giá Rẻ</a>. Jeans Hằng  Yên. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
